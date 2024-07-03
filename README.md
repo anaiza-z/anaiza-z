@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Linkedin: Anaíza](https://img.shields.io/badge/-anaíza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaiza-camilo)](www.linkedin.com/in/anaiza-camilo)
+[![Linkedin: Anaíza](https://img.shields.io/badge/-anaíza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaiza-camilo)](https://www.linkedin.com/in/anaiza-camilo)
 [![Instagram](https://img.shields.io/badge/-anaiza.z-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anaiza.z/)](https://www.instagram.com/anaiza.z/)
 
 
