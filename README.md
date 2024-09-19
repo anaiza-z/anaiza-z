@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou Anaíza</h1>
+<h1 align="center">Olá, eu sou Anaíza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Computação | 🌍 Apaixonada por Ciência de dados
+  👩🏻‍💻 Estudante de Engenharia de Computação | 📊 Apaixonada por Ciência de dados
 </p><br><br>
 
 
